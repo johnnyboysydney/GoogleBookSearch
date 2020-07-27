@@ -2,17 +2,17 @@
 
 # BooksSearchGoogle
 
-[contributors-shield]: https://img.shields.io/github/contributors/johnnyboysydney/BooksSearchGoogle.svg?style=flat-square
-[contributors-url]: https://github.com/johnnyboysydney/BooksSearchGoogle/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/johnnyboysydney/BooksSearchGoogle.svg?style=flat-square
-[forks-url]: https://github.com/johnnyboysydney/BooksSearchGoogle/network
-[stars-shield]: https://img.shields.io/github/stars/johnnyboysydney/BooksSearchGoogle.svg?style=flat-square
-[stars-url]: https://github.com/johnnyboysydney/Portfolio_React/stargazers
-[issues-shield]: https://img.shields.io/github/issues/johnnyboysydney/BooksSearchGoogle.svg?style=flat-square
-[issues-url]: https://github.com/johnnyboysydney/BooksSearchGoogle/issues
+[contributors-shield]: https://img.shields.io/github/contributors/johnnyboysydney/GoogleBookSearch.svg?style=flat-square
+[contributors-url]: https://github.com/johnnyboysydney/GoogleBookSearch/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/johnnyboysydney/GoogleBookSearch.svg?style=flat-square
+[forks-url]: https://github.com/johnnyboysydney/GoogleBookSearch/network
+[stars-shield]: https://img.shields.io/github/stars/johnnyboysydney/GoogleBookSearch.svg?style=flat-square
+[stars-url]: https://github.com/johnnyboysydney/GoogleBookSearch/stargazers
+[issues-shield]: https://img.shields.io/github/issues/johnnyboysydney/GoogleBookSearch.svg?style=flat-square
+[issues-url]: https://github.com/johnnyboysydney/GoogleBookSearch/issues
 [build-style-shield]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [build-style-url]: https://github.com/feross/standard
-[license-shield]: https://img.shields.io/github/license/johnnyboysydney/BooksSearchGoogle.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/johnnyboysydney/GoogleBookSearch.svg?style=flat-square
 [license-url]: http://choosealicense.com/licenses/mit/
 [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![JS Standard][build-style-shield]][build-style-url] [![MIT License][license-shield]][license-url]
 [![Build Status](https://travis-ci.com/johnnyboysydney/BooksSearchGoogle.svg?branch=master)](https://travis-ci.com/johnnyboysydney/BooksSearchGoogle)
