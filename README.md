@@ -4,7 +4,7 @@
 
 [contributors-shield]: https://img.shields.io/github/contributors/johnnyboysydney/BooksSearchGoogle.svg?style=flat-square
 [contributors-url]: https://github.com/johnnyboysydney/BooksSearchGoogle/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/johnnyboysydney/Portfolio_React.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/johnnyboysydney/BooksSearchGoogle.svg?style=flat-square
 [forks-url]: https://github.com/johnnyboysydney/BooksSearchGoogle/network
 [stars-shield]: https://img.shields.io/github/stars/johnnyboysydney/BooksSearchGoogle.svg?style=flat-square
 [stars-url]: https://github.com/johnnyboysydney/Portfolio_React/stargazers
